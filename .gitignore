@@ -1,5 +1,5 @@
-.vscode/**
-token.json
+vscode/**
+store/management/commands/**
 
 # Python temp files
 __pycache__/
