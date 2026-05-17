@@ -1,4 +1,4 @@
-vscode/**
+.vscode/**
 store/management/commands/**
 
 # Python temp files
