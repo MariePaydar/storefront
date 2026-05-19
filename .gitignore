@@ -5,3 +5,6 @@ store/management/commands/**
 __pycache__/
 *.py[cod]
 *$py.class
+
+# media files
+*.png
