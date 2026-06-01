@@ -168,7 +168,7 @@ class CreateOrderSerializer(serializers.Serializer):
                 .filter(cart_id=cart_id)
             order_items = [
                 OrderItem(
-                    order=order,
+                    order=order, 
                     product=item.product,
                     unit_price=item.product.unit_price,
                     quantity=item.quantity
